@@ -1,0 +1,9 @@
+p{
+color: blue;
+}
+.body{
+    background-color: rgb(234, 234, 248);
+} 
+#img{
+     border-radius: 50px; border-image-width: 100%; height: 500px;
+}
